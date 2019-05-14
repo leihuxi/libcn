@@ -1,0 +1,92 @@
+[
+{
+  "directory": "/home/xileihu/work/source/libngx/build",
+  "command": "/usr/bin/cc   -g   -o CMakeFiles/main.dir/alloc.c.o   -c /home/xileihu/work/source/libngx/src/alloc.c",
+  "file": "/home/xileihu/work/source/libngx/src/alloc.c"
+},
+{
+  "directory": "/home/xileihu/work/source/libngx/build",
+  "command": "/usr/bin/cc   -g   -o CMakeFiles/main.dir/array.c.o   -c /home/xileihu/work/source/libngx/src/array.c",
+  "file": "/home/xileihu/work/source/libngx/src/array.c"
+},
+{
+  "directory": "/home/xileihu/work/source/libngx/build",
+  "command": "/usr/bin/cc   -g   -o CMakeFiles/main.dir/buf.c.o   -c /home/xileihu/work/source/libngx/src/buf.c",
+  "file": "/home/xileihu/work/source/libngx/src/buf.c"
+},
+{
+  "directory": "/home/xileihu/work/source/libngx/build",
+  "command": "/usr/bin/cc   -g   -o CMakeFiles/main.dir/connection.c.o   -c /home/xileihu/work/source/libngx/src/connection.c",
+  "file": "/home/xileihu/work/source/libngx/src/connection.c"
+},
+{
+  "directory": "/home/xileihu/work/source/libngx/build",
+  "command": "/usr/bin/cc   -g   -o CMakeFiles/main.dir/cycle.c.o   -c /home/xileihu/work/source/libngx/src/cycle.c",
+  "file": "/home/xileihu/work/source/libngx/src/cycle.c"
+},
+{
+  "directory": "/home/xileihu/work/source/libngx/build",
+  "command": "/usr/bin/cc   -g   -o CMakeFiles/main.dir/epoll_event.c.o   -c /home/xileihu/work/source/libngx/src/epoll_event.c",
+  "file": "/home/xileihu/work/source/libngx/src/epoll_event.c"
+},
+{
+  "directory": "/home/xileihu/work/source/libngx/build",
+  "command": "/usr/bin/cc   -g   -o CMakeFiles/main.dir/event.c.o   -c /home/xileihu/work/source/libngx/src/event.c",
+  "file": "/home/xileihu/work/source/libngx/src/event.c"
+},
+{
+  "directory": "/home/xileihu/work/source/libngx/build",
+  "command": "/usr/bin/cc   -g   -o CMakeFiles/main.dir/event_accept.c.o   -c /home/xileihu/work/source/libngx/src/event_accept.c",
+  "file": "/home/xileihu/work/source/libngx/src/event_accept.c"
+},
+{
+  "directory": "/home/xileihu/work/source/libngx/build",
+  "command": "/usr/bin/cc   -g   -o CMakeFiles/main.dir/event_posted.c.o   -c /home/xileihu/work/source/libngx/src/event_posted.c",
+  "file": "/home/xileihu/work/source/libngx/src/event_posted.c"
+},
+{
+  "directory": "/home/xileihu/work/source/libngx/build",
+  "command": "/usr/bin/cc   -g   -o CMakeFiles/main.dir/event_timer.c.o   -c /home/xileihu/work/source/libngx/src/event_timer.c",
+  "file": "/home/xileihu/work/source/libngx/src/event_timer.c"
+},
+{
+  "directory": "/home/xileihu/work/source/libngx/build",
+  "command": "/usr/bin/cc   -g   -o CMakeFiles/main.dir/list.c.o   -c /home/xileihu/work/source/libngx/src/list.c",
+  "file": "/home/xileihu/work/source/libngx/src/list.c"
+},
+{
+  "directory": "/home/xileihu/work/source/libngx/build",
+  "command": "/usr/bin/cc   -g   -o CMakeFiles/main.dir/main.c.o   -c /home/xileihu/work/source/libngx/src/main.c",
+  "file": "/home/xileihu/work/source/libngx/src/main.c"
+},
+{
+  "directory": "/home/xileihu/work/source/libngx/build",
+  "command": "/usr/bin/cc   -g   -o CMakeFiles/main.dir/palloc.c.o   -c /home/xileihu/work/source/libngx/src/palloc.c",
+  "file": "/home/xileihu/work/source/libngx/src/palloc.c"
+},
+{
+  "directory": "/home/xileihu/work/source/libngx/build",
+  "command": "/usr/bin/cc   -g   -o CMakeFiles/main.dir/queue.c.o   -c /home/xileihu/work/source/libngx/src/queue.c",
+  "file": "/home/xileihu/work/source/libngx/src/queue.c"
+},
+{
+  "directory": "/home/xileihu/work/source/libngx/build",
+  "command": "/usr/bin/cc   -g   -o CMakeFiles/main.dir/rbtree.c.o   -c /home/xileihu/work/source/libngx/src/rbtree.c",
+  "file": "/home/xileihu/work/source/libngx/src/rbtree.c"
+},
+{
+  "directory": "/home/xileihu/work/source/libngx/build",
+  "command": "/usr/bin/cc   -g   -o CMakeFiles/main.dir/shmtx.c.o   -c /home/xileihu/work/source/libngx/src/shmtx.c",
+  "file": "/home/xileihu/work/source/libngx/src/shmtx.c"
+},
+{
+  "directory": "/home/xileihu/work/source/libngx/build",
+  "command": "/usr/bin/cc   -g   -o CMakeFiles/main.dir/spinlock.c.o   -c /home/xileihu/work/source/libngx/src/spinlock.c",
+  "file": "/home/xileihu/work/source/libngx/src/spinlock.c"
+},
+{
+  "directory": "/home/xileihu/work/source/libngx/build",
+  "command": "/usr/bin/cc   -g   -o CMakeFiles/main.dir/times.c.o   -c /home/xileihu/work/source/libngx/src/times.c",
+  "file": "/home/xileihu/work/source/libngx/src/times.c"
+}
+]
