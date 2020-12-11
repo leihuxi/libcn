@@ -15,8 +15,7 @@ int32_t epoll_process_events(cycle_t *cycle, rbtree_key_t timer,
 static int ep = -1;
 static struct epoll_event *event_list;
 static uint32_t nevents;
-uint32_t use_epoll_rdhup;
-extern uint32_t use_epoll_rdhup;
+static uint32_t use_epoll_rdhup;
 
 #define READ_EVENT (EPOLLIN | EPOLLRDHUP)
 #define WRITE_EVENT EPOLLOUT
