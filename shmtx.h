@@ -9,11 +9,6 @@ struct shmtx_sh_s {
 
 struct shmtx_s {
     atomic_t *lock;
-    atomic_t *wait;
-    uint64_t semaphore;
-    sem_t sem;
-    int fd;
-    u_char *name;
     uint64_t spin;
 };
 

@@ -16,14 +16,12 @@
 #include <errno.h>
 #include <semaphore.h>
 #include <stdio.h>
-#include <stropts.h>
 #include <sys/mman.h>
 #include <sys/stat.h>
 #include <sys/utsname.h>
 #include <netinet/tcp.h>
 #include <time.h>
 #include <sys/time.h>
-#include <stropts.h>
 #include <sys/ioctl.h>
 #include "common.h"
 
